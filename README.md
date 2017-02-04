@@ -1,2 +1,2 @@
 # notebooks
-Miscellaneous Jupiter Notebooks
+Miscellaneous Jupyter Notebooks
